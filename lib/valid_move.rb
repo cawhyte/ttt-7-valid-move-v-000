@@ -1,4 +1,10 @@
-def position_taken?(board, position)
+
+#What does my code need to do?
+#checks to see if the position the su
+
+
+
+def position_taken?(board, index)
  if board[position] == " "
  return false
 
