@@ -1,10 +1,8 @@
 
 # What does my code need to do?
 # checks to see if the position the user inputted is taken or free.
-# needs to vaildate if the move is on the board 
-# validate if position is not taken.
-# use a helper method to
-
+# use a helper method to vaildate if the move is on the board 
+# build a method that returns true if the move is valid and returns false or nil if the move is not valid.
 
 
 def position_taken?(board, index)
