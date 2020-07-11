@@ -3,7 +3,7 @@
 # checks to see if the position the user inputted is taken or free.
 # needs to vaildate if the move is on the board 
 # validate if position is not taken.
-# use a helper method to make code more readible 
+# use a helper method to
 
 
 
