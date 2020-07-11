@@ -1,6 +1,9 @@
 
-#What does my code need to do?
-#checks to see if the position the su
+# What does my code need to do?
+# checks to see if the position the user inputted is taken or free.
+# needs to vaildate if the move is on the board 
+# validate if position is not taken.
+# use a helper method to make code more readible 
 
 
 
